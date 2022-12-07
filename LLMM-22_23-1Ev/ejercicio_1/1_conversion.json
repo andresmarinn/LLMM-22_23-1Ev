@@ -1,0 +1,30 @@
+
+{
+"alumno": {
+    "nombre": "Hasbullah Magomedov",
+    "email": "hasbullah@meme.com",
+    "estudios": {
+        "curso": 1,
+        "ciclo": "Educación Infantil"
+    },
+    "hobbies": [
+        "Ser un meme", 
+        "Fútbol", 
+        "Cosas de rusos"
+    ],
+    "asignaturas": [
+        {
+            "titulo": "Lenguajes de Marcas",
+            "profesor": "Rodri"
+        },
+        {
+            "titulo": "Inglés",
+            "profesor": "Olaya A.K.A. La de inglés"
+        },
+        {
+            "titulo": "Programación",
+            "profesor": "Pelayo"
+        }
+    ]
+}
+}

@@ -1,0 +1,27 @@
+<alumno>
+    <nombre>Hasbullah Magomedov</nombre>
+    <email>hasbullah@meme.com</email>
+    <estudios>
+        <curso>1</curso>
+        <ciclo>Educación Infantil</ciclo>
+    </estudios>
+    <hobbies>
+        <hobbie>Ser un meme</hobbie>
+        <hobbie>Fútbol</hobbie>
+        <hobbie>Cosas de rusos</hobbie>
+    </hobbies>
+    <asignaturas>
+        <asignatura>
+            <titulo>Lenguaje de Marcas</titulo>
+            <profesor>Rodri</profesor>
+        </asignatura>
+        <asignatura>
+            <titulo>Inglés</titulo>
+            <profesor>Olaya A.K.A. "La de inglés"</profesor>
+        </asignatura>
+        <asignatura>
+            <titulo>Programación</titulo>
+            <profesor>Pelayo</profesor>
+        </asignatura>
+    </asignaturas>
+</alumno>

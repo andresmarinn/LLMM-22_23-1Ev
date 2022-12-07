@@ -1,0 +1,32 @@
+/*Aquí va el CSS del fichero 2_tabla.html*/
+
+/* Border */
+
+table, td{
+    border: 2px solid black;
+}
+
+
+/* Yellow */
+
+table tr:first-child td:first-child, table tr:first-child td:nth-child(4), table tr:nth-child(3) td:last-child{
+    background-color: yellow;
+}
+
+/* Blue */
+
+table tr:first-child td:nth-child(2), table tr:nth-child(2) td:nth-child(4){
+    background-color: blue;
+    color: white;
+}
+
+/* Red*/
+
+table tr:first-child td:nth-child(3), table tr:nth-child(2) td:nth-child(5), table tr:last-child td:first-child{
+    background-color: red;
+    color: white;
+}
+
+
+
+
